@@ -34,7 +34,7 @@ Every book addition, lending, and return is permanently recorded on-chain — fo
 
 
 
-
+contract link -- https://celo-sepolia.blockscout.com/address/0x29a659457f885c748519dc643861f996e23b23b9?tab=index
 
 
 ```solidity
