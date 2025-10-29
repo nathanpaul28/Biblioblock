@@ -29,7 +29,8 @@ Every book addition, lending, and return is permanently recorded on-chain — fo
 ✅ **Gas-Efficient Storage** — Simple mappings and arrays for clarity.  
 ✅ **Event-Based Tracking** — Easy to integrate with dApps or explorers.  
 ✅ **Beginner-Friendly Solidity Code** — Simple structure and clear documentation for new developers.  
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/71c59fca-f66e-4527-94b2-12018de50c36" />
+
+<img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/852c45e8-7b4d-4a18-a1fc-58eabd7b7d22" />
 
 
 
